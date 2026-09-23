@@ -138,6 +138,9 @@ Slow stealthy forward movement through undergrowth. Heavy but careful steps, sub
 
 ---
 
+### Scene 1 Revision Note — Positional Delta
+The first generated start/end pair was too similar. Future end frames must show Acro materially farther screen-right, with roughly 15–25% frame-width advancement and at least one clearly completed step. Vegetation changes alone are insufficient.
+
 ## Scene 2 — Hunting Cue Close-Up
 
 **Duration:** 2 sec  
